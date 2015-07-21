@@ -1,4 +1,4 @@
-   # Sky Wave Design, LLC
+# Sky Wave Design, LLC
 This is the Sky Wave Design, LLC template python application.
 
 There is a setup script that will install all of the necessary packages in 
