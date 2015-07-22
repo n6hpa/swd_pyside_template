@@ -14,12 +14,6 @@ will run on those environments with the proper setup.
 
 ## Windows [incomplete]
 
-1. Download Python 3.4 64 bit for windows: https://www.python.org/ftp/python/3.4.3/python-3.4.3.amd64.msi
-2. Install.  Make sure to select the option that adds the python install folder to the path
-3. Open the command prompt
-4. Run `pip install --update pip`
-5. Download MSVC++ 10.0 x64 from here: http://download.microsoft.com/download/3/2/2/3224B87F-CFA0-4E70-BDA3-3DE650EFEBA5/vcredist_x64.exe
-http://download.microsoft.com/download/5/B/C/5BC5DBB3-652D-4DCE-B14A-475AB85EEF6E/vcredist_x86.exe
 ## Mac OS X
 
 Good luck!  This program requires python3 which means headaches for you!
